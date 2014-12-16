@@ -1,0 +1,99 @@
+.banner-center-main {
+    background-position: center;
+    background: url(../images/finalbanner.png) no-repeat center;
+    background-size: 600px auto;
+    padding-top: 100px;
+    padding-bottom: 150px;
+}
+.banner-center {
+    align-content: center;
+    background-size: 50%;
+    background-position: center;
+}
+
+.banner-container {
+    text-align: center;
+    vertical-align: text-bottom;
+}
+
+.banner-text {
+    font-size: 48pt;
+    font-family: "Teko", sans-serif;
+    font-weight: 600;
+}
+
+.banner-img {
+    vertical-align: text-top;
+}
+
+.center {
+    text-align: center;
+}
+
+.content-main {
+    
+}
+
+.custom-button:hover {
+	color: #757A7D;
+}
+
+.enter-name {
+	font-size: 24pt;
+}
+
+.float-right {
+    float: right;
+}
+
+.footer {
+    font-size: 14px;
+}
+
+#ise-info {
+    margin-bottom: 50px;
+}
+
+.left-align {
+    text-align: left;
+    display: inline-block;
+}
+
+.line-dark {
+	width: 33%;
+    border-color: #000000;
+    align: center;
+}
+
+.main-font {
+	font-family: 'Teko', sans-serif;
+    font-size: 24pt;
+    font-weight: 300;
+}
+
+.navbar-btn {
+    text-align: center;
+}
+
+#norms-stats {
+    width: 200%;
+}
+
+#ranked-stats {
+    width: 200%;
+}
+
+.search-query {
+    width: 250px;
+}
+
+.summoner-level {
+    width: 102%;
+}
+
+.troll-text {
+    font-size: 12pt;
+    text-align: center;
+    width: 80%;
+    color: #f0eeee;
+}

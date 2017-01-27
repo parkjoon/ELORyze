@@ -1,5 +1,5 @@
  <?php
-$link = mysql_connect('eloryzenet.ipagemysql.com', 'eloryzenet', 'Poimk489!'); 
+$link = mysql_connect('eloryzenet.ipagemysql.com', 'eloryzenet', 'xxxxxx'); 
 if (!$link) {
     die('Could not connect: ' . mysql_error());
 }
